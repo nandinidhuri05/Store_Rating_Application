@@ -1,5 +1,5 @@
 
-# 🌟 StoreRate — Premium Store Rating Platform
+# StoreRate — Premium Store Rating Platform
 
 StoreRate is a full-stack web application designed to provide a **modern, secure, and scalable store rating system**.  
 It allows users to discover and rate stores, while giving admins and store owners powerful tools for management, insights, and monitoring — all wrapped in a premium **Glassmorphism UI experience**.
